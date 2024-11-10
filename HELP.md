@@ -1,7 +1,7 @@
 # Read Me First
 The following was discovered as part of building this project:
 
-* The original package name 'com.fastcampus.fastcampus-java-oop' is invalid and this project uses 'com.fastcampus.fastcampus_java_oop' instead.
+* The original package name 'com.fastcampus.fastcampus-java-oop' is invalid and this project uses 'com.fastcampus.javaoop' instead.
 
 # Getting Started
 
